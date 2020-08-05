@@ -153,5 +153,6 @@ div.body {
 	}
 }
 
-
-
+.images img {
+  height: 250px;
+}
